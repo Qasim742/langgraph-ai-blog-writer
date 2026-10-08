@@ -1,1 +1,11 @@
 
+langgraph
+langchain-core
+langchain-groq
+langchain-community
+langchain-huggingface
+pydantic
+python-dotenv
+tavily-python
+google-genai
+tenacity
